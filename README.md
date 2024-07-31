@@ -1,3 +1,3 @@
 # NewsApi-project
-This is my first project in react js
+This is my first project in Git Repository. 
 Author - Ujala Sain
